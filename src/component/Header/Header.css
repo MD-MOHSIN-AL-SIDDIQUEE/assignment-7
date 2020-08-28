@@ -1,0 +1,9 @@
+.header{
+    height: 100vh;
+    color:white;
+    background: url(bg1.jpg) center ;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align:center;
+    padding-top:250px;
+}

@@ -1,0 +1,38 @@
+.course-header{
+    margin-top:50px;
+    text-align:center;
+    background-color:lightseagreen;
+}
+.cart-part{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.course-product{
+    background-color:orange;
+    width: 300px;
+    height: 300px;
+    border: 10px solid gray;
+    box-shadow:5px 5px 5px gray;
+    margin:20px;
+    padding:40px;
+    text-align:center;  
+}
+.course-img{
+    width:250px;
+}
+.button{
+    margin-top:30px
+}
+.cart-container{
+    border:10px solid gray;
+    box-shadow: 5px 5px 10px gray;
+    background-color:orange;
+    margin:10px;
+    padding:10px;
+    margin-top:100px;
+}
+
+    
+    
